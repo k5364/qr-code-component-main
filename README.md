@@ -8,10 +8,6 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ![](./images/Screenshot_2.jpg)
 
-### Links
-
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-
 ## Meu processo
 
 ### Construído com
